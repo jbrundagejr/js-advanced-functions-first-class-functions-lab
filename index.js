@@ -1,1 +1,5 @@
-// Code your solution in this file!
+let newArray = []
+function returnFirstTwoDrivers(drivers) {
+    newArray.push(drivers)
+    return newArray
+}
